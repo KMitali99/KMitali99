@@ -14,7 +14,7 @@ I'm an aspiring **Cloud & DevOps Engineer** with a strong interest in building, 
 
 My current focus is on developing practical skills in **AWS Cloud, Linux administration, networking, Git/GitHub, CI/CD, containerization, and automation**.
 
-I enjoy learning by building hands-on projects and understanding how cloud infrastructure works behind real-world applications.
+I have worked on projects and understanding how cloud infrastructure works behind real-world applications.
 
 * ☁️ Learning and working with **AWS Cloud Services**
 * 🐧 Hands-on with **Linux & Shell Scripting**
