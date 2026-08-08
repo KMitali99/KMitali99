@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mitali Kadam
 
-### ☁️ Junior Cloud Engineer | AWS | DevOps | Linux | CI/CD
+### ☁️ Cloud Engineer | AWS | DevOps | Linux | CI/CD
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=750&lines=Junior+Cloud+Engineer;AWS+%7C+DevOps+%7C+Linux;Building+Cloud+%26+DevOps+Projects;Automating+Infrastructure+%26+Deployments" alt="Typing SVG" />
